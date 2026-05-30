@@ -1,0 +1,6 @@
+*.zip
+WomanLog_Export.xml
+CLAUDE.md
+__pycache__/
+*.pyc
+.DS_Store
